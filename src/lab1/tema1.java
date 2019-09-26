@@ -43,13 +43,5 @@ public class tema1 {
         float j = 3f;
         float p = 2f;
         float totall = b + i / j * p - g % j;
-        System.out.println(totall);
-
-
-
-
-
-
-    }
-
+        System.out.println(totall);}
 }
